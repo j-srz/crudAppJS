@@ -1,4 +1,4 @@
-# Breakingbad App en JS con Vite
+# CRUD App en JS con Vite
 
 Pasos para ejecutar el proyecto
 
