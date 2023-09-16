@@ -449,35 +449,6 @@
       "first_name": "Mcbride",
       "last_name": "Woodward",
       "gender": "male"
-    },
-    {
-      "id": 51
-    },
-    {
-      "id": 52
-    },
-    {
-      "id": 53
-    },
-    {
-      "id": 54
-    },
-    {
-      "id": 55
-    },
-    {
-      "isActive": true,
-      "balance": 2,
-      "firstName": "Jesus",
-      "lastName": "Suarez",
-      "id": 56
-    },
-    {
-      "isActive": true,
-      "balance": 23343,
-      "first_name": "Jesus",
-      "last_name": "Suarez",
-      "id": 57
     }
   ]
 }
